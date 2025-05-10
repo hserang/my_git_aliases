@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Haroun Serang
+	email = hserang@gmail.com
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	cm = commit
+	lg = log --all --decorate --oneline --graph
